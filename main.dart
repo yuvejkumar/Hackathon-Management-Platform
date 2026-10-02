@@ -23,7 +23,7 @@ void main() async {
 // CONFIGURATION
 // ============================================================
 const String STAFF_ID = 'wondersofai';
-const String STAFF_PASSWORD = 'jyoshna';
+const String STAFF_PASSWORD = 'yuvejkumar';
 
 // ============================================================
 // HELPER EXTENSION (Prevents crashes on missing fields)
